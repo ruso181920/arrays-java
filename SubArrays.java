@@ -18,7 +18,7 @@ public class SubArrays {
     }
     public static void main(String[] args) {
         int number[]={2,4,6,8,10};
-        System.out.println("Paired array : "); 
+        System.out.println("Subarray : "); 
         subArray(number);
         
      } 
